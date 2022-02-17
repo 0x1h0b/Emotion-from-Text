@@ -4,6 +4,7 @@
 
 - it is a webapp created using streamlit  and deployed on heroku
 
+**WebApp link** :- https://emotion-from-text.herokuapp.com/
 
 ### Local setup
 
