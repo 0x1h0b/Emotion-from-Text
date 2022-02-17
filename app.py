@@ -90,7 +90,7 @@ def main():
         st.markdown("""<hr style="height:5px;border:none;color:#333;background-color:#333;" /> """, unsafe_allow_html=True)  
         col1, col2 = st.columns(2)
         col1.markdown(" By :- Himanshu Bag")
-        col2.markdown(" Github Link for this project : [Click-Me](https://github.com/0x1h0b/Resume-Classification)")
+        col2.markdown(" Github Link for this project : [Click-Me](https://github.com/0x1h0b/Emotion-from-Text)")
         col1, col2 = st.columns(2)
         col1.markdown(" LinkedIn Profile : [himanshu-bag](https://www.linkedin.com/in/himanshu-bag/)")
         col2.markdown(" Github Profile : [0x1h0b](https://github.com/0x1h0b)")
